@@ -1,0 +1,17 @@
+node_modules
+.vercel
+dist
+.output
+.netlify
+screenshots
+artifacts
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+.grok
+.project_id
+.node_modules.lock
+AGENTS.md
+AGENTS.project.md
